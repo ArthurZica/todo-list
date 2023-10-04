@@ -1,1 +1,16 @@
-Criando cruds com qualidade!
+{
+  "todosWithoutOne": [
+    {
+      "id": "9ea95cd8-3bfb-4306-963b-92706696a09d",
+      "date": "2023-10-04T01:53:57.816Z",
+      "content": "novo valor segunda todo",
+      "done": false
+    },
+    {
+      "id": "4a04c74a-37e1-4252-88e3-1b098c041619",
+      "date": "2023-10-04T01:53:57.817Z",
+      "content": "Novo valor terceira todo",
+      "done": true
+    }
+  ]
+}
